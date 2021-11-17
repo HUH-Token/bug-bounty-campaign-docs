@@ -90,5 +90,5 @@ The bug bounty program is a rewards program for the HUH community to encourage a
 
 # References
 1. Bounty.ethereum.org. 2021. *Ethereum Bounty Program*. [online] Available at: <<https://bounty.ethereum.org/>> [Accessed 15 November 2021].
-1. GitHub. 2021. *weifund-contracts/BUG-BOUNTY-DETAILS.md at master · weifund/weifund-contracts*. [online] Available at: <https://github.com/weifund/weifund-contracts/blob/master/BUG-BOUNTY-DETAILS.md> [Accessed 15 November 2021].
+2. GitHub. 2021. *weifund-contracts/BUG-BOUNTY-DETAILS.md at master · weifund/weifund-contracts*. [online] Available at: <https://github.com/weifund/weifund-contracts/blob/master/BUG-BOUNTY-DETAILS.md> [Accessed 15 November 2021].
 
