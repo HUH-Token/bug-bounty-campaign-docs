@@ -2,6 +2,8 @@
 
 ## Bug Bounty Campaign
 
+![Wanted Bug Reward](./assets/WantedBugReward.png)
+
 #
 # RULES & REWARDS
 Dear white hat hacker, please consider the following points before your [HUH.social](https://huh.social/) bug research! If you are willing to wear a red hat, this program does not apply to you.
